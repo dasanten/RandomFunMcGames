@@ -1,0 +1,4 @@
+name: RandomGames
+version: ${project.version}
+main: de.dasanten.randomgames.RandomGames
+api-version: 1.17
